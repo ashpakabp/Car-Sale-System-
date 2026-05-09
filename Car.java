@@ -1,5 +1,4 @@
 package com.carsales.entity;
-
 import jakarta.persistence.*;
 
 @Entity
