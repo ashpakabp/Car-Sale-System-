@@ -4,8 +4,6 @@ import jakarta.persistence.*;
 public class Car {
 
     
-
-
     
 
     
