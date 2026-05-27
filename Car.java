@@ -5,7 +5,6 @@ public class Car {
 
     
     
-
     
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
