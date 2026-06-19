@@ -1,6 +1,6 @@
 package com.carsales;
 
-/////////////
+////////////
 ///;;;;;;
 
 import org.springframework.boot.SpringApplication;
