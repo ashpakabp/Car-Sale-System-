@@ -5,7 +5,6 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 import com.carsales.entity.Car;
 import com.carsales.service.CarService;
-
 @Controller
 public class CarController {
 
