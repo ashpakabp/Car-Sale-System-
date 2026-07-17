@@ -17,7 +17,6 @@ public class CarController {
         model.addAttribute("car", new Car());
         return "index";
     }
-
     @PostMapping("/save")
     public String saveCar(@ModelAttribute Car car) {
         service.saveCar(car);
