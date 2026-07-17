@@ -11,7 +11,6 @@ public class Car {
     private double price;
 
     public Car() {}
-
     public Car(String brand, String model, double price) {
         this.brand = brand;
         this.model = model;
