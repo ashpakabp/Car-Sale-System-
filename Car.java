@@ -1,4 +1,4 @@
-package com.carsales.entity;
+aasaapackage com.carsales.entity;
 import jakarta.persistence.*;
 @Entity
 public class Car {
